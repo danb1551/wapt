@@ -3,7 +3,7 @@
 ###### So I name it
 # WAPT
 
-! somethink like that alredy exist and it's named bucket or somethink like that soooo I stop this project !
+## ! somethink like that alredy exist and it's named bucket or somethink like that soooo I stop this project !
 
 Did you ever think about apt on windows like in Linux? Yes, I did, and that’s why I started writing this code.
 

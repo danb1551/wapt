@@ -3,6 +3,8 @@
 ###### So I name it
 # WAPT
 
+! somethink like that alredy exist and it's named bucket or somethink like that soooo I stop this project !
+
 Did you ever think about apt on windows like in Linux? Yes, I did, and that’s why I started writing this code.
 
 It's not alredy for use but you can look at it.
@@ -12,7 +14,7 @@ Web: [It's here (Just click)](https://wapt.pythonanywhere.com)
 TODO:
 - [ ] Make website look better
 - [ ] Make better tools managing
-- [ ] Upload it to the web
+- [x] Upload it to the web
 
 
 ### How to make your own package?
